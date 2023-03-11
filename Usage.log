@@ -278,3 +278,15 @@
 2023-03-11 14:09:05,630;Capella;6.0.0.202209090800;Open+Representation;;OK;
 2023-03-11 14:09:40,286;Capella;6.0.0.202209090800;Close+Session;RAISE.aird;;
 2023-03-11 14:09:40,458;Capella;6.0.0.202209090800;Close+Session;RAISE.aird;OK;
+2023-03-11 14:14:46,721;Capella;6.0.0.202209090800;Open+Session;RAISE.aird;;
+2023-03-11 14:14:51,731;Capella;6.0.0.202209090800;Open+Session;RAISE.aird;OK;
+2023-03-11 14:15:00,169;Capella;6.0.0.202209090800;Open+Representation;;;
+2023-03-11 14:15:02,274;Capella;6.0.0.202209090800;Open+Representation;;OK;
+2023-03-11 14:15:04,063;Capella;6.0.0.202209090800;Open+Representation;;;
+2023-03-11 14:15:04,444;Capella;6.0.0.202209090800;Open+Representation;;OK;
+2023-03-11 14:15:06,083;Capella;6.0.0.202209090800;Open+Representation;;;
+2023-03-11 14:15:07,910;Capella;6.0.0.202209090800;Open+Representation;;OK;
+2023-03-11 14:15:12,158;Capella;6.0.0.202209090800;Open+Representation;;;
+2023-03-11 14:15:12,940;Capella;6.0.0.202209090800;Open+Representation;;OK;
+2023-03-11 14:15:25,175;Capella;6.0.0.202209090800;Close+Session;RAISE.aird;;
+2023-03-11 14:15:25,435;Capella;6.0.0.202209090800;Close+Session;RAISE.aird;OK;
